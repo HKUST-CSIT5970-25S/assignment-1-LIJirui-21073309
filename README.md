@@ -50,21 +50,21 @@
     >
     > **t2.micro**
     >
-    > ![cpu](/Users/torettoli/Desktop/cloudcomputing/assignment1/t2-micro/cpu.png)
+    > ![cpu](https://github.com/HKUST-CSIT5970-25S/assignment-1-LIJirui-21073309/blob/main/assignment1_images/t2-micro/cpu.png?raw=true)
     >
-    > ![memory](/Users/torettoli/Desktop/cloudcomputing/assignment1/t2-micro/memory.png)
+    > ![memory](https://github.com/HKUST-CSIT5970-25S/assignment-1-LIJirui-21073309/blob/main/assignment1_images/t2-micro/memory.png?raw=true)
     >
     > **t2.medium**
     >
-    > ![cpu](/Users/torettoli/Desktop/cloudcomputing/assignment1/t2-medium/cpu.png)
+    > ![cpu](https://github.com/HKUST-CSIT5970-25S/assignment-1-LIJirui-21073309/blob/main/assignment1_images/t2-medium/cpu.png?raw=true)
     >
-    > ![memory](/Users/torettoli/Desktop/cloudcomputing/assignment1/t2-medium/memory.png)
+    > ![memory](https://github.com/HKUST-CSIT5970-25S/assignment-1-LIJirui-21073309/blob/main/assignment1_images/t2-medium/memory.png?raw=true)
     >
     > **c5d.large**
     >
-    > ![cpu](/Users/torettoli/Desktop/cloudcomputing/assignment1/c5d-large/cpu.png)
+    > ![cpu](https://github.com/HKUST-CSIT5970-25S/assignment-1-LIJirui-21073309/blob/main/assignment1_images/c5d-large/cpu.png?raw=true)
     >
-    > ![memory](/Users/torettoli/Desktop/cloudcomputing/assignment1/c5d-large/memory.png)
+    > ![memory](https://github.com/HKUST-CSIT5970-25S/assignment-1-LIJirui-21073309/blob/main/assignment1_images/c5d-large/memory.png?raw=true)
     >
     > ### Performance Analysis
     >
@@ -107,51 +107,51 @@
     >
     > **t3.medium` - `t3.medium**
     >
-    > ![server](/Users/torettoli/Desktop/cloudcomputing/assignment1/network/t3-t3/server.png)
+    > ![server](https://github.com/HKUST-CSIT5970-25S/assignment-1-LIJirui-21073309/blob/main/assignment1_images/network/t3-t3/server.png?raw=true)
     >
-    > ![client](/Users/torettoli/Desktop/cloudcomputing/assignment1/network/t3-t3/client.png)
+    > ![client](https://github.com/HKUST-CSIT5970-25S/assignment-1-LIJirui-21073309/blob/main/assignment1_images/network/t3-t3/client.png?raw=true)
     >
-    > ![ping](/Users/torettoli/Desktop/cloudcomputing/assignment1/network/t3-t3/ping.png)
+    > ![ping](https://github.com/HKUST-CSIT5970-25S/assignment-1-LIJirui-21073309/blob/main/assignment1_images/network/t3-t3/ping.png?raw=true)
     >
     > **m5.large` - `m5.large**
     >
-    > ![server](/Users/torettoli/Desktop/cloudcomputing/assignment1/network/m5-m5/server.png)
+    > ![server](https://github.com/HKUST-CSIT5970-25S/assignment-1-LIJirui-21073309/blob/main/assignment1_images/network/m5-m5/server.png?raw=true)
     >
-    > ![client](/Users/torettoli/Desktop/cloudcomputing/assignment1/network/m5-m5/client.png)
+    > ![client](https://github.com/HKUST-CSIT5970-25S/assignment-1-LIJirui-21073309/blob/main/assignment1_images/network/m5-m5/client.png?raw=true)
     >
-    > ![ping](/Users/torettoli/Desktop/cloudcomputing/assignment1/network/m5-m5/ping.png)
+    > ![ping](https://github.com/HKUST-CSIT5970-25S/assignment-1-LIJirui-21073309/blob/main/assignment1_images/network/m5-m5/ping.png?raw=true)
     >
     > **c5n.large` - `c5n.large**
     >
-    > ![server](/Users/torettoli/Desktop/cloudcomputing/assignment1/network/c5n-c5n/server.png)
+    > ![server](https://github.com/HKUST-CSIT5970-25S/assignment-1-LIJirui-21073309/blob/main/assignment1_images/network/c5n-c5n/server.png?raw=true)
     >
-    > ![client](/Users/torettoli/Desktop/cloudcomputing/assignment1/network/c5n-c5n/client.png)
+    > ![client](https://github.com/HKUST-CSIT5970-25S/assignment-1-LIJirui-21073309/blob/main/assignment1_images/network/c5n-c5n/client.png?raw=true)
     >
-    > ![ping](/Users/torettoli/Desktop/cloudcomputing/assignment1/network/c5n-c5n/ping.png)
+    > ![ping](https://github.com/HKUST-CSIT5970-25S/assignment-1-LIJirui-21073309/blob/main/assignment1_images/network/c5n-c5n/ping.png?raw=true)
     >
     > **t3.medium` - `c5n.large**
     >
-    > ![server](/Users/torettoli/Desktop/cloudcomputing/assignment1/network/t3-c5n/server.png)
+    > ![server](https://github.com/HKUST-CSIT5970-25S/assignment-1-LIJirui-21073309/blob/main/assignment1_images/network/t3-c5n/server.png?raw=true)
     >
-    > ![client](/Users/torettoli/Desktop/cloudcomputing/assignment1/network/t3-c5n/client.png)
+    > ![client](https://github.com/HKUST-CSIT5970-25S/assignment-1-LIJirui-21073309/blob/main/assignment1_images/network/t3-c5n/client.png?raw=true)
     >
-    > ![ping](/Users/torettoli/Desktop/cloudcomputing/assignment1/network/t3-c5n/ping.png)
+    > ![ping](https://github.com/HKUST-CSIT5970-25S/assignment-1-LIJirui-21073309/blob/main/assignment1_images/network/t3-c5n/ping.png?raw=true)
     >
     > **m5.large` - `c5n.large**
     >
-    > ![server](/Users/torettoli/Desktop/cloudcomputing/assignment1/network/m5-c5n/server.png)
+    > ![server](https://github.com/HKUST-CSIT5970-25S/assignment-1-LIJirui-21073309/blob/main/assignment1_images/network/m5-c5n/server.png?raw=true)
     >
-    > ![client](/Users/torettoli/Desktop/cloudcomputing/assignment1/network/m5-c5n/client.png)
+    > ![client](https://github.com/HKUST-CSIT5970-25S/assignment-1-LIJirui-21073309/blob/main/assignment1_images/network/m5-c5n/client.png?raw=true)
     >
-    > ![ping](/Users/torettoli/Desktop/cloudcomputing/assignment1/network/m5-c5n/ping.png)
+    > ![ping](https://github.com/HKUST-CSIT5970-25S/assignment-1-LIJirui-21073309/blob/main/assignment1_images/network/m5-c5n/ping.png?raw=true)
     >
     > **m5.large` - `t3.medium**
     >
-    > ![server](/Users/torettoli/Desktop/cloudcomputing/assignment1/network/m5-t3/server.png)
+    > ![server](https://github.com/HKUST-CSIT5970-25S/assignment-1-LIJirui-21073309/blob/main/assignment1_images/network/m5-t3/server.png?raw=true)
     >
-    > ![client](/Users/torettoli/Desktop/cloudcomputing/assignment1/network/m5-t3/client.png)
+    > ![client](https://github.com/HKUST-CSIT5970-25S/assignment-1-LIJirui-21073309/blob/main/assignment1_images/network/m5-t3/client.png?raw=true)
     >
-    > ![ping](/Users/torettoli/Desktop/cloudcomputing/assignment1/network/m5-t3/ping.png)
+    > ![ping](https://github.com/HKUST-CSIT5970-25S/assignment-1-LIJirui-21073309/blob/main/assignment1_images/network/m5-t3/ping.png?raw=true)
 
 2. (1 mark) What about the network performance for instances deployed in different regions? In order to answer this question, you need to complete the following table.
 
@@ -176,27 +176,27 @@
     >
     > **N. Virginia - Oregon**:
     >
-    > ![server](/Users/torettoli/Desktop/cloudcomputing/assignment1/network/Nij-Ore/server.png)
+    > ![server](https://github.com/HKUST-CSIT5970-25S/assignment-1-LIJirui-21073309/blob/main/assignment1_images/network/Virg-Ore/server.png?raw=true)
     >
-    > ![client](/Users/torettoli/Desktop/cloudcomputing/assignment1/network/Nij-Ore/client.png)
+    > ![client](https://github.com/HKUST-CSIT5970-25S/assignment-1-LIJirui-21073309/blob/main/assignment1_images/network/Virg-Ore/client.png?raw=true)
     >
-    > ![ping](/Users/torettoli/Desktop/cloudcomputing/assignment1/network/Nij-Ore/ping.png)
+    > ![ping](https://github.com/HKUST-CSIT5970-25S/assignment-1-LIJirui-21073309/blob/main/assignment1_images/network/Virg-Ore/ping.png?raw=true)
     >
     > **N. Virginia - N. Virginia**:
     >
-    > ![server](/Users/torettoli/Desktop/cloudcomputing/assignment1/network/NIJ-Nij/server.png)
+    > ![server](https://github.com/HKUST-CSIT5970-25S/assignment-1-LIJirui-21073309/blob/main/assignment1_images/network/Virg-Virg/server.png?raw=true)
     >
-    > ![client](/Users/torettoli/Desktop/cloudcomputing/assignment1/network/NIJ-Nij/client.png)
+    > ![client](https://github.com/HKUST-CSIT5970-25S/assignment-1-LIJirui-21073309/blob/main/assignment1_images/network/Virg-Virg/client.png?raw=true)
     >
-    > ![ping](/Users/torettoli/Desktop/cloudcomputing/assignment1/network/NIJ-Nij/ping.png)
+    > ![ping](https://github.com/HKUST-CSIT5970-25S/assignment-1-LIJirui-21073309/blob/main/assignment1_images/network/Virg-Virg/ping.png?raw=true)
     >
     > **Oregon - Oregon**:
     >
-    > ![server](/Users/torettoli/Desktop/cloudcomputing/assignment1/network/ore-ore/server.png)
+    > ![server](https://github.com/HKUST-CSIT5970-25S/assignment-1-LIJirui-21073309/blob/main/assignment1_images/network/ore-ore/server.png?raw=true)
     >
-    > ![client](/Users/torettoli/Desktop/cloudcomputing/assignment1/network/ore-ore/client.png)
+    > ![client](https://github.com/HKUST-CSIT5970-25S/assignment-1-LIJirui-21073309/blob/main/assignment1_images/network/ore-ore/client.png?raw=true)
     >
-    > ![ping](/Users/torettoli/Desktop/cloudcomputing/assignment1/network/ore-ore/ping.png)
+    > ![ping](https://github.com/HKUST-CSIT5970-25S/assignment-1-LIJirui-21073309/blob/main/assignment1_images/network/ore-ore/ping.png?raw=true)
     >
     > The network performance for instances deployed in different regions (N. Virginia to Oregon) shows a very high TCP bandwidth but comes with a significantly higher RTT compared to instances communicating within the same region. The results indicate that while cross-region connections can achieve high bandwidth, they also experience increased latency, which can affect application performance. Instances within the same region maintain lower latency and moderate bandwidth, demonstrating optimal performance for intra-region communications.
     >
